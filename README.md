@@ -1,14 +1,14 @@
 # 👋 Hi, I'm **Parbat Baniya**
 
 🎓 **Computer Science student @ Kathmandu University**  
-💡 Passionate about **Python**, **DSA**, **AI/ML**, **C**, **C++**, and building practical applications.
+💡 Passionate about **Python**, **DSA**, **AI/ML**, **Web Development**, **C**, **C++**, and building practical applications.
 
 ---
 
 ## 🚀 About Me
 
 - 🧠 Enthusiastic about **Algorithms**, **AI**, and **Data Analysis**  
-- 🤖 Exploring **Machine Learning** and **Data Analysis**  
+- 🤖 Exploring **Web Development** and **Data Analysis**  
 - 🎮 **Soulslike enjoyer**  
 - 🐧 **Linux Bro**
 
